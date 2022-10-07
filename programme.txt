@@ -3,4 +3,4 @@
 *Ajouter des fichiers 
 *Modifier des fichiers
 *Voir l'historique
-*Ne pas avoir peut des merge
+*Ne pas avoir peur des merge
